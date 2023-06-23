@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap');
+
+body {
+  background-color: #F0F2F5;
+  font-family: 'Montserrat';
+  overflow-x: hidden;
+}
+
+.container {
+  margin-top: 24px;
+  margin-bottom: 24px;
+}
+
+h3 {
+  color: #00FAC7;
+  text-transform: uppercase;
+}
